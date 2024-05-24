@@ -31,8 +31,3 @@ a) Test case: allItems=null,payment=100 - 1->2->27, фрла Exception и изл
 в)350;0.2;01234 - враќа true, TTT
 
 г)100;0.2;01234 -> враќа false FTT
-   
-  
-**Тест случаи според критериумот Every path**
-
-**Објаснување на напишаните unit tests**
